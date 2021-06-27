@@ -1,0 +1,13 @@
+body{display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(41, 39, 39);
+}
+.Navbar{display: flex;
+    flex-direction: row;
+    background-color: cornsilk;
+    text-decoration: rgb(40, 21, 56);
+    padding: 5px 0px;
+    margin:0%;
+}
